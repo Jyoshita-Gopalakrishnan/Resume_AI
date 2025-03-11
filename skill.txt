@@ -1,0 +1,7 @@
+python
+machine learning
+flask
+docker
+aws
+data analysis
+sql
